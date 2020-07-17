@@ -1,0 +1,25 @@
+{
+  "name": "base62-counter",
+  "version": "0.1.0",
+  "description": "Work with base62 values including incrementing and conversion",
+  "keywords": [
+    "base62",
+    "base10"
+  ],
+  "author": "Taylor McGann",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup --config",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "7.10.5",
+    "@babel/preset-env": "7.10.4",
+    "babel-jest": "26.1.0",
+    "husky": "4.2.5",
+    "jest": "26.1.0",
+    "prettier": "2.0.5",
+    "rollup": "2.21.0"
+  }
+}

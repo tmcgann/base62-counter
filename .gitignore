@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# NodeJS
+node_modules
+
+# VSCode
+*.code-workspace
